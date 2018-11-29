@@ -1,0 +1,12 @@
+clouds:
+  openstack:
+    auth:
+      auth_url: http://192.168.0.177:5000/v3
+      username: "Lucas"
+      password: "888888"
+      project_id: b22fa34ba25840499d9c2522f41b0a32
+      project_name: "admin"
+      user_domain_name: "admin_domain"
+    region_name: "RegionOne"
+    interface: "public"
+    identity_api_version: 3
